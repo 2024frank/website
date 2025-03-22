@@ -6,49 +6,14 @@ import Footer from '../components/Footer';
 export default function Events() {
   // Sample events data
   const events = [
+  
     {
       id: 1,
-      title: 'African Developers Conference',
-      date: 'June 15-17, 2023',
-      location: 'Nairobi, Kenya',
-      type: 'Conference',
-      description: 'A three-day conference bringing together developers from across Africa to share knowledge, network, and collaborate on innovative projects.',
-      image: '/placeholder.jpg',
-    },
-    {
-      id: 2,
       title: 'Build for Africa Hackathon',
-      date: 'July 22-24, 2023',
+      date: 'coming soon',
       location: 'Virtual',
       type: 'Hackathon',
-      description: 'A 48-hour virtual hackathon focused on building solutions for African challenges in healthcare, education, and finance.',
-      image: '/placeholder.jpg',
-    },
-    {
-      id: 3,
-      title: 'Tech Startup Funding Workshop',
-      date: 'August 10, 2023',
-      location: 'Lagos, Nigeria',
-      type: 'Workshop',
-      description: 'Learn how to secure funding for your tech startup from experienced investors and successful entrepreneurs.',
-      image: '/placeholder.jpg',
-    },
-    {
-      id: 4,
-      title: 'Women in Tech Africa Summit',
-      date: 'September 5-6, 2023',
-      location: 'Cape Town, South Africa',
-      type: 'Summit',
-      description: 'A summit dedicated to celebrating and empowering women in technology across Africa with keynotes, panels, and networking opportunities.',
-      image: '/placeholder.jpg',
-    },
-    {
-      id: 5,
-      title: 'AI & Machine Learning Bootcamp',
-      date: 'October 15-20, 2023',
-      location: 'Accra, Ghana',
-      type: 'Bootcamp',
-      description: 'An intensive 5-day bootcamp on artificial intelligence and machine learning with hands-on projects and expert mentors.',
+      description: '...',
       image: '/placeholder.jpg',
     },
   ];

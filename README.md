@@ -1,4 +1,4 @@
-# Deep Tech Africa
+# NexGen Africa
 
 A community platform bringing African builders together to connect, collaborate, and build innovative solutions.
 
